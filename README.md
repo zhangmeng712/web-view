@@ -16,7 +16,7 @@
 
 ## Android
 
-- 解压缩ios-webview.zip
+- 解压缩android-webview.zip
 - 工程导入到eclipse ADT中
 - 下载不同的androidsdk版本运行（webview根据版本的不同可能需要调整）
 - 启动AVD运行程序，程序会让你首先输入要测试的网址 输入后点击 click me 进入调试的页面
